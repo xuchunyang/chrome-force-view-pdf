@@ -1,0 +1,6 @@
+{
+  "name": "Force View PDF",
+  "version": "1.0",
+  "description": "Never download PDF, just open it within Chrome!",
+  "manifest_version": 2
+}
