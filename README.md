@@ -22,3 +22,8 @@
 ## 参考链接
 
 - [Getting Started Tutorial - Google Chrome](https://developer.chrome.com/extensions/getstarted)
+
+## 替代选择
+
+- [PDF Forcedownload Blocker - Chrome 网上应用店](https://chrome.google.com/webstore/detail/pdf-forcedownload-blocker/ojbkmmcompidaghfnodmbeiankbbfckl)
+- [No PDF Download - Chrome 网上应用店](https://chrome.google.com/webstore/detail/no-pdf-download/ikhahkidgnljlniknmendeflkdlfhonj) (这个更加靠谱)
